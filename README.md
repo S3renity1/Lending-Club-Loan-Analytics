@@ -5,7 +5,10 @@
 **Dataset:** Lending Club Historical Data (2007-2018)<br>
 **Scale:** 29.9 Million loan applications analysed<br> 
 **Tools:** Python (Pandas), Power BI, DAXs<br> 
-**Dashboards:** [loan-approval-dashboard](https://github.com/S3renity1/Lending-Club-Loan-Analytics/blob/main/loan-approval-dashboard.png), [risk-analysis-dashboard](https://github.com/S3renity1/Lending-Club-Loan-Analytics/blob/main/risk-analysis-dashboard.png), [time-series-analysis-dashboard](https://github.com/S3renity1/Lending-Club-Loan-Analytics/blob/main/time-series-analysis-dashboard.png)
+**Dashboards:** loan-approval-dashboard, risk-analysis-dashboard, time-series-analysis-dashboard <br> 
+![loan-approval-dashboard](https://github.com/S3renity1/Lending-Club-Loan-Analytics/blob/main/loan-approval-dashboard.png)<br> 
+![risk-analysis-dashboard](https://github.com/S3renity1/Lending-Club-Loan-Analytics/blob/main/risk-analysis-dashboard.png)<br> 
+![time-series-analysis-dashboard](https://github.com/S3renity1/Lending-Club-Loan-Analytics/blob/main/time-series-analysis-dashboard.png) <br>
 
 ---
 
